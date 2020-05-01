@@ -1,2 +1,3 @@
-# works
-Personal side projects and other works
+# Personal Works
+
+This repository contains all my personal works
