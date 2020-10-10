@@ -1,6 +1,6 @@
 <?php
 //website url for calling telegram api methods, add api methods to end of this string to perform those functions
-$methods_url = 'https://api.telegram.org/bot1106142975:AAHNqv11YBW2N9UkmCmBQ9CVCkX1b-x4Am4/';
+$methods_url = 'https://api.telegram.org//';
 
 //get the post request send from the bot and load it to variable
 $php_header_input = file_get_contents('php://input');
